@@ -1,4 +1,4 @@
-const apiKey = "YOUR_API_KEY";  // TEMPORARY use only
+const apiKey = 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;  // TEMPORARY use only
 
 async function sendMessage() {
   const input = document.getElementById("user-input").value;
